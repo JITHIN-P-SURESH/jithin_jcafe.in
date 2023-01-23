@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jithin_jcafe.in/static/css/main.67b1412b.css",
+    "main.js": "/jithin_jcafe.in/static/js/main.0be21fb7.js",
+    "static/media/img19.jpg": "/jithin_jcafe.in/static/media/img19.da6e56a1bdab546e33a4.jpg",
+    "static/media/img23.jpg": "/jithin_jcafe.in/static/media/img23.3ce395553482498fdccd.jpg",
+    "static/media/img22.jpg": "/jithin_jcafe.in/static/media/img22.d50e1b1d28b05bf57fb7.jpg",
+    "static/media/img17.jpg": "/jithin_jcafe.in/static/media/img17.05bf081a9b88717fe0d7.jpg",
+    "static/media/img9.jpg": "/jithin_jcafe.in/static/media/img9.6175c4d86380a6eec842.jpg",
+    "static/media/img18.jpg": "/jithin_jcafe.in/static/media/img18.8c21fbc96a0d465044db.jpg",
+    "static/media/img21.jpg": "/jithin_jcafe.in/static/media/img21.93b5eda59c2b6882b049.jpg",
+    "static/media/img15.jpg": "/jithin_jcafe.in/static/media/img15.44d8f38fd71342d9e8b8.jpg",
+    "index.html": "/jithin_jcafe.in/index.html",
+    "main.67b1412b.css.map": "/jithin_jcafe.in/static/css/main.67b1412b.css.map",
+    "main.0be21fb7.js.map": "/jithin_jcafe.in/static/js/main.0be21fb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b1412b.css",
+    "static/js/main.0be21fb7.js"
+  ]
+}
