@@ -15,7 +15,7 @@ const Common = (props) =>{
         <Container> 
         
         <Row className="container-fluid mb-4 pb-1">
-        <Col className="col-10" id='header' md={{ span: 6, offset: 6}}><h2 style={{marginLeft:"15vh",fontSize:"38px",fontColor:"black",fontFamily: "Mr Dafoe",fontWeight:"bolder"}}>{props.name}
+        <Col className="col-10" id='header' md={{ span: 6, offset: 6}}><h2 style={{marginLeft:"15vh",fontSize:"35px",fontColor:"black",fontFamily: "Mr Dafoe",fontWeight:"bolder"}}>{props.name}
         <strong className="brand-name">Jp Cafe</strong></h2></Col>
         </Row>
         <Row className="container-fluid ">
